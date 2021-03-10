@@ -1,0 +1,4 @@
+thsi is my java microservices
+
+create Eureka server
+create Eureka clint
